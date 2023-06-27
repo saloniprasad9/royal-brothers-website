@@ -3,7 +3,6 @@ import { IoIosCall } from "react-icons/io";
 const ContactBar = () => {
   return (
     <div className='bg-white flex flex-row-reverse items-center h-[10px] mt-2'>
-        <link>Chat Now</link>
         <div>+917795687594 / +919019595595   |</div>
         <IoIosCall/>
     </div>
