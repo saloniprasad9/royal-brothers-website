@@ -4,7 +4,6 @@ import { HiMenu } from "react-icons/hi";
 import subscription from '../assets/subscription.png';
 import { HiChevronDown } from "react-icons/hi";
 import { IoLocationOutline } from "react-icons/io5";
-import { navLinks } from '../constants';
 import ContactBar from './ContactBar';
 const Navbar = () => {
   return (

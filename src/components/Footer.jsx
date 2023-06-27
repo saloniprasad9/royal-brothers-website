@@ -1,5 +1,4 @@
 import React from 'react'
-import styles from '../style'
 const Footer = () => {
   return (
     <div className='flex flex-col bg-[#444444]'>

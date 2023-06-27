@@ -1,7 +1,5 @@
 import React from 'react'
 import Navbar from './components/Navbar';
-import ContactBar from './components/ContactBar';
-import styles from './style';
 import Hero from './components/Hero';
 import About from './components/About';
 import Services from './components/Services';

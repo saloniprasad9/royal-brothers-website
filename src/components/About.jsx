@@ -8,7 +8,7 @@ import { SlSocialLinkedin } from "react-icons/sl";
 import { AiOutlineYoutube } from "react-icons/ai";
 import Apple from '../assets/Apple.png';
 import Google from '../assets/Google Play.png';
-import { quickLinks , company , policies , follow } from '../constants';
+import { quickLinks , company , policies } from '../constants';
 const About = () => {
   return (
     <div className='flex flex-col justify-between bg-[#373737] w-[1260px] h-[400px]'>
@@ -63,8 +63,8 @@ const About = () => {
           <div className='flex flex-col'>
               <h1 className='font-mulish text-white text-[20px] ml-40 mt-6'>DOWNLOAD OUR APP</h1>
               <div className='flex flex-row ml-40 mt-4'>
-                  <img src={Apple} className='w-[160px] h-[90px]'/>
-                  <img src={Google} className='w-[160px] h-[90px]'/>
+                  <img src={Apple} className='w-[160px] h-[90px]' alt='apple'/>
+                  <img src={Google} className='w-[160px] h-[90px]' alt='google'/>
               </div>
           </div>
         </div>

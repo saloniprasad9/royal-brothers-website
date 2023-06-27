@@ -1,6 +1,5 @@
 import React from 'react'
 import Carousel from 'react-grid-carousel';
-import styles from '../style';
 const Quality = () => {
   return (
     <div>
